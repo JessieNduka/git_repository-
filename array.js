@@ -28,8 +28,7 @@ colors.push ("yellow");
 let lastcolor = colors.pop ();
 console.log(colors);
 
-console.log(lastcolor);
-
+// adding a comment to test git
 let firstcolor = colors.shift ();
 console.log(colors);
 console.log(firstcolor)
